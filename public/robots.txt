@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://bitboundclick.github.io/sitemap.xml
+# Finalized for BitBound — https://bitboundclick.github.io
